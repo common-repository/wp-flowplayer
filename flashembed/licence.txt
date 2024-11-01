@@ -1,0 +1,8 @@
+flashembed 0.29. Adobe Flash embedding script
+
+http://flowplayer.org/tools/flash-embed.html
+
+Copyright (c) 2008 Tero Piirainen (tero@flowplayer.org)
+
+Released under the MIT License:
+http://www.opensource.org/licenses/mit-license.php
